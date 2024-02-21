@@ -1,2 +1,2 @@
-# To-Do-List_HTML-CSS-JS_Basic project.
+# To-Do-List HTML-CSS-JS Basic project.
 # my-new-branch.
